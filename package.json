@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/iamjouza/calc/issues"
   },
-  "homepage": "https://github.com/iamjouza/calc#readme"
+  "homepage": "https://github.com/iamjouza/calc#readme",
+  "dependencies": {
+    "mathjs": "^6.0.3"
+  }
 }
