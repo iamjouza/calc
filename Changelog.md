@@ -7,6 +7,7 @@
  1. Init project
  2. Add 4 functions (add, substract, divide, multiply)
  3. Add tests of these functions
+ 4. Add abs function
 
 
 ## [v0.2.0] - 2019-07-15
