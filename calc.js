@@ -13,3 +13,7 @@ exports.multiply = function(x,y) {
 exports.divide = function(x,y) {
     return x / y;
 };
+
+exports.abs = function(x) {
+    return Math.abs(x);
+};
