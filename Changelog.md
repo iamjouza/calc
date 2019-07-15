@@ -14,3 +14,8 @@
 ### Added
  1. Install mathjs lib
  2. Implementation of 4 mathjs functions instead of previous one
+
+
+## [v0.2.1] - 2019-07-15
+### Added
+ 1. Implementation mathjs abs function instead of previous one
